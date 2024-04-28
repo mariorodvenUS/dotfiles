@@ -7,7 +7,7 @@ palette = "catppuccin_mocha"
 
 # Setups
 format="$directory$git_branch$character"
-right_format = """$git_status$cmd_duration"""
+right_format = "$cmd_duration"
 add_newline = false 
 
 # Other languages configurations:
